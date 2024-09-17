@@ -8,7 +8,7 @@ while True:
     if valor > 100:
         print("Limite excedido.")  
 
-    elif valor >10:
+    elif valor > 10:
         quadrado = valor ** 2
         print(f"O quadrado de {valor} é {quadrado}.")
     
